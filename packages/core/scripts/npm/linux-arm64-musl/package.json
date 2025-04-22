@@ -1,5 +1,5 @@
 {
-  "name": "@swc/core-linux-arm64-musl",
+  "name": "@mantou/swc_core-linux-arm64-musl",
   "version": "1.11.21",
   "os": [
     "linux"

@@ -1,5 +1,5 @@
 {
-  "name": "@swc/core-linux-arm-gnueabihf",
+  "name": "@mantou/swc_core-linux-arm-gnueabihf",
   "version": "1.11.21",
   "os": [
     "linux"

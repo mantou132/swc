@@ -1,5 +1,5 @@
 {
-  "name": "@swc/core-darwin-arm64",
+  "name": "@mantou/swc_core-darwin-arm64",
   "version": "1.11.21",
   "os": [
     "darwin"

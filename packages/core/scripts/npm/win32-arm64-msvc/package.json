@@ -1,5 +1,5 @@
 {
-  "name": "@swc/core-win32-arm64-msvc",
+  "name": "@mantou/swc_core-win32-arm64-msvc",
   "version": "1.11.21",
   "os": [
     "win32"
